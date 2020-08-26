@@ -21,7 +21,7 @@
     "animate.css": "^4.1.0",
     "array-move": "^3.0.0",
     "classnames": "^2.2.6",
-    "dayjs": "^1.8.31",
+    "dayjs": "^1.8.32",
     "dotenv": "^8.2.0",
     "downloadjs": "^1.4.7",
     "firebase": "^7.17.1",
